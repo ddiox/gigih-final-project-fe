@@ -5,7 +5,7 @@ const ErrorPage = () => {
   return (
     <Center h="100vh">
       <Box>
-        <Heading as="h1" size="xl" textAlign="center">
+        <Heading as="h1" color="white" size="xl" textAlign="center">
           Not Found
         </Heading>
       </Box>
