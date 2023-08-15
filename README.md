@@ -19,3 +19,26 @@ we can see in src folder there are hooks, components, and pages folders.
 - hooks contains: useFetch
 - components contains: Header, Loading, ProductCard, and VideoCard
 - pages contains: HomePage, DetailPage, and ErrorPage
+
+## How to run in local
+
+before run the frontend application, run the backend application first, follow the instructions here:
+https://github.com/ddiox/gigih-final-projct-be
+
+1. Clone this repository
+
+```
+git clone https://github.com/ddiox/gigih-final-project-fe.git
+```
+
+2. Install dependencies
+
+```
+npm install
+```
+
+3. Run the application
+
+```
+npm start
+```
